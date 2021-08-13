@@ -7,3 +7,5 @@
 ## [build](build.md)
 
 ## [dev](dev.md)
+
+## [verifyCommit](verifyCommit.md)
