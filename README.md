@@ -7,3 +7,9 @@
 ```bash
 git switch -c share origin/share
 ```
+
+### scripts
+
+```bash
+git switch -c scripts origin/scripts
+```
