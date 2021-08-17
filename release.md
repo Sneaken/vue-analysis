@@ -276,4 +276,4 @@ const runIfNotDry = isDryRun ? dryRun : run;
 
 2. 整个流程
 
-   确认发布的版本 -> 跑测试用例（如果有的话） -> -> 更新 package.json 的版本 -> 可能需要打包 -> 更新 changelog 内容 -> 提交变更 -> 打标签 -> 推标签 -> 推代码 -> 发包
+   确认发布的版本 -> 跑测试用例（如果有的话） -> 更新 package.json 的版本 -> 可能需要打包 -> 更新 changelog 内容 -> 提交变更 -> 打标签 -> 推标签 -> 推代码 -> 发包
