@@ -9,3 +9,5 @@
 ## [dev](dev.md)
 
 ## [verifyCommit](verifyCommit.md)
+
+## [release](release.md)
