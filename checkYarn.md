@@ -23,10 +23,11 @@ yarn
 
 检查发现 package.json 中 的 script 中定义了一下
 
-```json
+```json5
 {
   "script": {
     // 这个是 npm 钩子 在 install 之前执行
+    // 如果想要跳过这个钩子 可以使用 yarn --ignore-scripts
     "preinstall": "node ./scripts/checkYarn.js"
   }
 }
